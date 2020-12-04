@@ -4,7 +4,7 @@
 - Studio Neuvieme Page, front developer
 
 
-### Stuffs i made
+### Stuffs I made
 - [Cobo.](https://www.cobosrl.co/)
 - [Basement Studio portfolio](https://basement.studio/)
 - [Emanuele Milella portfolio](https://emanuelemilella.com/)
