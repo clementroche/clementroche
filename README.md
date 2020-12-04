@@ -1,11 +1,10 @@
-## Who I am
-
+### Who I am
 - Freelance front developer
 - Gobelins, interactive design student
 - Studio Neuvieme Page, front developer
 
 
-## Stuffs i made
+### Stuffs i made
 - [Cobo.](https://www.cobosrl.co/)
 - [Basement Studio portfolio](https://basement.studio/)
 - [Emanuele Milella portfolio](https://emanuelemilella.com/)
