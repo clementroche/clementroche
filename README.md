@@ -1,5 +1,3 @@
-### Hi there 👋
-
 - Freelance front developer
 - Gobelins, interactive design student
 - Studio Neuvieme Page, front developer
