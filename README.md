@@ -10,7 +10,7 @@
 - [Emanuele Milella portfolio](https://emanuelemilella.com/)
 - [Edoardo Smerilli portfolio](https://edoardosmerilli.com/)
 - [Le Cantiche 1320](https://www.lecantiche.com/)
-- [Codrops Tutorial](https://tympanus.net/codrops/2019/10/21/how-to-create-motion-hover-effects-with-image-distortions-using-three-js/)
+- [Codrops: How to Create Motion Hover Effects with Image Distortions using Three.js](https://tympanus.net/codrops/2019/10/21/how-to-create-motion-hover-effects-with-image-distortions-using-three-js/)
 
 <!--
 **clementroche/clementroche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
