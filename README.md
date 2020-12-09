@@ -1,7 +1,7 @@
 ### Who I am
 - Freelance front developer
-- Gobelins, interactive design student
-- Studio Neuvieme Page, front developer
+- [Gobelins](https://www.gobelins.fr/), interactive design student
+- [Studio Neuvieme Page](https://neuviemepage.studio/), front developer
 
 
 ### Stuffs I made
