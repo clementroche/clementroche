@@ -3,14 +3,23 @@
 - [Gobelins](https://www.gobelins.fr/), interactive design student
 - [Studio Neuvieme Page](https://neuviemepage.studio/), front developer
 
-
 ### Stuffs I made
-- [Cobo.](https://www.cobosrl.co/)
-- [Basement Studio portfolio](https://basement.studio/)
+- [One Up Studio](https://oneupstudio.it/)
+- [Le Cantiche 1320](https://www.lecantiche.com/) with [Emanuele Milella](https://twitter.com/EmanueleMilella)
+- [Edoardo Smerilli portfolio](https://edoardosmerilli.com/) with [Niccolò Miranda](https://twitter.com/niccolomiranda)
 - [Emanuele Milella portfolio](https://emanuelemilella.com/)
-- [Edoardo Smerilli portfolio](https://edoardosmerilli.com/)
-- [Le Cantiche 1320](https://www.lecantiche.com/)
-- [Codrops: How to Create Motion Hover Effects with Image Distortions using Three.js](https://tympanus.net/codrops/2019/10/21/how-to-create-motion-hover-effects-with-image-distortions-using-three-js/)
+- [Basement Studio portfolio](https://basement.studio/)
+- [Codrops: How to Create Motion Hover Effects with Image Distortions using Three.js](https://tympanus.net/codrops/2019/10/21/how-to-create-motion-hover-effects-with-image-distortions-using-three-js/) with [Niccolò Miranda](https://twitter.com/niccolomiranda)
+- [Cobo](https://www.cobosrl.co/) with [Niccolò Miranda](https://twitter.com/niccolomiranda)
+
+### Contact
+- [Twitter](https://twitter.com/clementroche_)
+- [Mail](mailto:rchclement@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/cl%C3%A9ment-roche/)
+
+
+
+
 
 <!--
 **clementroche/clementroche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
