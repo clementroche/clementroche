@@ -12,6 +12,12 @@
 - [Codrops: How to Create Motion Hover Effects with Image Distortions using Three.js](https://tympanus.net/codrops/2019/10/21/how-to-create-motion-hover-effects-with-image-distortions-using-three-js/) 🇮🇹 with [Niccolò Miranda](https://twitter.com/niccolomiranda)
 - [Cobo](https://www.cobosrl.co/) 🇮🇹 with [Niccolò Miranda](https://twitter.com/niccolomiranda)
 
+### Techs
+- Vue/Nuxt
+- React/Next
+- WebGL/Three
+- Contentful
+
 ### Contact
 - [Twitter](https://twitter.com/clementroche_)
 - [Mail](mailto:rchclement@gmail.com)
