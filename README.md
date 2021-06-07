@@ -17,6 +17,7 @@
 - React/Next
 - WebGL/Three
 - Contentful
+- SparkAR
 
 ### Contact
 - [Twitter](https://twitter.com/clementroche_)
