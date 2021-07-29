@@ -1,7 +1,6 @@
 ### Who I am
-- 🇫🇷 Freelance front developer
-- [Gobelins](https://www.gobelins.fr/), interactive design student
-- [Studio Neuvieme Page](https://neuviemepage.studio/), front developer
+- 🇫🇷 front developer
+- former [Gobelins](https://www.gobelins.fr/) interactive design student
 
 ### Stuffs I made
 - [Etienne Barbedette portfolio](https://etiennebarbedette.com/) 🇫🇷
