@@ -4,9 +4,9 @@
 - [Studio Neuvieme Page](https://neuviemepage.studio/), front developer
 
 ### Stuffs I made
-- [Etienne Barbedette Portfolio](https://etiennebarbedette.com/) 🇫🇷 with [Etienne Barbedette](https://twitter.com/barbedette_e)
-- [Osmo Design](https://www.osmodesign.io/) 🇮🇹
-- [One Up Studio](https://oneupstudio.it/) 🇮🇹
+- [Etienne Barbedette portfolio](https://etiennebarbedette.com/) 🇫🇷
+- [Osmo Design portfolio](https://www.osmodesign.io/) 🇮🇹
+- [One Up Studio portfolio](https://oneupstudio.it/) 🇮🇹
 - [Le Cantiche 1320](https://www.lecantiche.com/) 🇮🇹🇮🇸 with [Emanuele Milella](https://twitter.com/EmanueleMilella)
 - [Edoardo Smerilli portfolio](https://edoardosmerilli.com/) 🇮🇹 with [Niccolò Miranda](https://twitter.com/niccolomiranda)
 - [Emanuele Milella portfolio](https://emanuelemilella.com/) 🇮🇹🇮🇸
