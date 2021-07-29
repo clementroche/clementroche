@@ -17,6 +17,7 @@
 - Vue/Nuxt
 - React/Next
 - WebGL/Three
+- GSAP
 - Contentful
 - SparkAR
 
