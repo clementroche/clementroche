@@ -1,6 +1,6 @@
 ### Who I am
-- 🇫🇷 front developer
-- former [Gobelins](https://www.gobelins.fr/) interactive design student
+- Developer [Studio Freight](https://studiofreight.com/)
+- former [Gobelins](https://www.gobelins.fr/)
 
 ### Stuffs I made
 - [Etienne Barbedette portfolio](https://etiennebarbedette.com/) 🇫🇷
