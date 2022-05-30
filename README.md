@@ -1,6 +1,5 @@
 ## Who I am
-- Developer [Studio Freight](https://studiofreight.com/)
-- former [Gobelins](https://www.gobelins.fr/)
+Developer [Studio Freight](https://studiofreight.com/)
 
 ## Stuffs I made
 ### [Studio Freight](https://www.studiofreight.com/)
