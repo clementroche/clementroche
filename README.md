@@ -1,8 +1,16 @@
-### Who I am
+## Who I am
 - Developer [Studio Freight](https://studiofreight.com/)
 - former [Gobelins](https://www.gobelins.fr/)
 
-### Stuffs I made
+## Stuffs I made
+### [Studio Freight](https://www.studiofreight.com/)
+- [Wyre](https://sendwyre.com/)
+- [Clyde](https://joinclyde.com/)
+- [Lunchbox](https://lunchbox.io/)
+- [Stord](https://sendwyre.com/)
+- [Dola](https://dola.me/)
+
+### Independant
 - [Etienne Barbedette portfolio](https://etiennebarbedette.com/) 🇫🇷
 - [Osmo Design portfolio](https://www.osmodesign.io/) 🇮🇹
 - [One Up Studio portfolio](https://oneupstudio.it/) 🇮🇹
@@ -13,7 +21,7 @@
 - [Codrops: How to Create Motion Hover Effects with Image Distortions using Three.js](https://tympanus.net/codrops/2019/10/21/how-to-create-motion-hover-effects-with-image-distortions-using-three-js/) 🇮🇹 with [Niccolò Miranda](https://twitter.com/niccolomiranda)
 - [Cobo](https://www.cobosrl.co/) 🇮🇹 with [Niccolò Miranda](https://twitter.com/niccolomiranda)
 
-### Techs
+## Techs
 - Vue/Nuxt
 - React/Next
 - WebGL/Three
@@ -21,7 +29,7 @@
 - Contentful
 - SparkAR
 
-### Contact
+## Contact
 - [Twitter](https://twitter.com/clementroche_)
 - [Mail](mailto:rchclement@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/cl%C3%A9ment-roche/)
