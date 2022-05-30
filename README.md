@@ -9,7 +9,7 @@
 - [Le Cantiche 1320](https://www.lecantiche.com/) 🇮🇹🇮🇸 with [Emanuele Milella](https://twitter.com/EmanueleMilella)
 - [Edoardo Smerilli portfolio](https://edoardosmerilli.com/) 🇮🇹 with [Niccolò Miranda](https://twitter.com/niccolomiranda)
 - [Emanuele Milella portfolio](https://emanuelemilella.com/) 🇮🇹🇮🇸
-- [Basement Studio portfolio](https://basement.studio/) 🇦🇷
+- [Basement Studio portfolio](https://2021.basement.studio/) 🇦🇷
 - [Codrops: How to Create Motion Hover Effects with Image Distortions using Three.js](https://tympanus.net/codrops/2019/10/21/how-to-create-motion-hover-effects-with-image-distortions-using-three-js/) 🇮🇹 with [Niccolò Miranda](https://twitter.com/niccolomiranda)
 - [Cobo](https://www.cobosrl.co/) 🇮🇹 with [Niccolò Miranda](https://twitter.com/niccolomiranda)
 
