@@ -3,6 +3,8 @@ Developer [Studio Freight](https://studiofreight.com/)
 
 ## Stuffs I made
 ### [Studio Freight](https://www.studiofreight.com/)
+- [Dragonfly](https://www.dragonfly.xyz/)
+- [Repeat](https://www.getrepeat.io/)
 - [Wyre](https://sendwyre.com/)
 - [Clyde](https://joinclyde.com/)
 - [Lunchbox](https://lunchbox.io/)
