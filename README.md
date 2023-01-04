@@ -14,7 +14,7 @@ Developer [Studio Freight](https://studiofreight.com/)
 - [Stord](https://sendwyre.com/)
 - [Dola](https://dola.me/)
 
-### Independant
+### Independent
 - [Etienne Barbedette portfolio](https://etiennebarbedette.com/) 🇫🇷
 - [Osmo Design portfolio](https://www.osmodesign.io/) 🇮🇹
 - [One Up Studio portfolio](https://oneupstudio.it/) 🇮🇹
