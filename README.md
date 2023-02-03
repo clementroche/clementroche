@@ -1,7 +1,7 @@
 ## Who I am
 Developer [Studio Freight](https://studiofreight.com/)
 
-## Stuffs I made
+## Stuffs I've made
 ### [Studio Freight](https://www.studiofreight.com/)
 - [Drive Capital](https://drivecapital.com/)
 - [Lenis](https://lenis.studiofreight.com/)
