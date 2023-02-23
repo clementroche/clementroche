@@ -3,6 +3,7 @@ Developer [Studio Freight](https://studiofreight.com/)
 
 ## Stuffs I've made
 ### [Studio Freight](https://www.studiofreight.com/)
+- [DeSo](https://deso.com)
 - [Drive Capital](https://drivecapital.com/)
 - [Lenis](https://lenis.studiofreight.com/)
 - [GoodShip](https://goodship.io/)
