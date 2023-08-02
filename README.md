@@ -3,6 +3,7 @@ Developer [Studio Freight](https://studiofreight.com/)
 
 ## Stuffs I've made
 ### [Studio Freight](https://www.studiofreight.com/)
+- [Evmos](https://evmos.org)
 - [Argus](https://argus.gg)
 - [DeSo](https://deso.com)
 - [Drive Capital](https://drivecapital.com/)
