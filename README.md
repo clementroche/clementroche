@@ -10,11 +10,10 @@ Developer [Studio Freight](https://studiofreight.com/)
 - [Lenis](https://lenis.studiofreight.com/)
 - [GoodShip](https://goodship.io/)
 - [Dragonfly](https://www.dragonfly.xyz/)
-- [Repeat](https://www.getrepeat.io/)
+- [Repeat](https://repeat.studiofreight.com/)
 - [Wyre](https://sendwyre.com/)
 - [Clyde](https://joinclyde.com/)
 - [Lunchbox](https://lunchbox.io/)
-- [Stord](https://sendwyre.com/)
 - [Dola](https://dola.me/)
 
 ### Independent
