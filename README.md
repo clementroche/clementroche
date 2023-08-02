@@ -1,5 +1,5 @@
 ## Who I am
-Developer [Studio Freight](https://studiofreight.com/)
+Developer at [Studio Freight](https://studiofreight.com/)
 
 ## Stuffs I've made
 ### [Studio Freight](https://www.studiofreight.com/)
