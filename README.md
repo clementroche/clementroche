@@ -3,7 +3,7 @@ Developer at [Studio Freight](https://studiofreight.com/)
 
 ## Stuffs I've made
 ### [Studio Freight](https://www.studiofreight.com/)
-- [Scrib3](https://rre.com)
+- [Scrib3](https://www.scrib3.co/)
 - [RRE](https://rre.com)
 - [Evmos](https://evmos.org)
 - [Argus](https://argus.gg)
