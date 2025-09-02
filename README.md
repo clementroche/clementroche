@@ -1,5 +1,5 @@
 ## Who I am
-Developer at [darkroom.engineering](https://darkroom.engineering/)
+Co-Founder at [darkroom.engineering](https://darkroom.engineering/)
 
 ## Contact
 - [Twitter](https://twitter.com/clementroche_)
